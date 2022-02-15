@@ -97,3 +97,7 @@ button {
     border-radius: 8px;
     font-size: 14px;
 }
+
+.form {
+    margin: 0 30% 0;
+}
